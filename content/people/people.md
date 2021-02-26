@@ -16,5 +16,5 @@ subtitle: null
 title: Meet the Team
 weight: 68
 widget: people
-![my-first-image](Amy_Neff-2-1500x999.jpg)
+image:[my-first-image](Amy_Neff-2-1500x999.jpg)
 ---
