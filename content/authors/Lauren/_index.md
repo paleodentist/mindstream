@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Passionate about care for patients in all aspects of their lives (diet, environment, mental health, and well-being).
 education:
   courses:
   - course: PhD in Artificial Intelligence

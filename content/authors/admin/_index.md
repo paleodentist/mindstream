@@ -1,25 +1,24 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Passionate about care for patients in all aspects of their lives (diet, environment, mental health, and well-being).
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Residency
+    institution: University of Virginia Department of Family Medicine
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MD
+    institution: Universiy of Tennessee College of Medicine
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Neuroscience
+    institution: University of Tennessee
     year: 2008
 email: ""
 highlight_name: false
-interests:
+Common Procedures / Specialties:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
+- name: Mindstream Integrative Wellness
   url: ""
 role: Behavioral Healthcare Provider
 social:
@@ -29,18 +28,14 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+
+
 superuser: true
-title: Amy Price Neff
+title: Amy Price-Neff
 user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Amy Price-Neff, MD, is a primary care physician board certified in Family Medicine with specialization in integrative medicine. Dr. Neff is passionate about local food, farming, animal welfare, and the environment. Neff serves on the boards of A Greener World's Certified Non-GMO by AGW, as well as the Independent Small Animal Meat Processing Association. Her areas of interest include Integrative Medicine - a focus on a person's diet, environment, movement, and relationships - as well as mental health.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She earned her undergraduate degree with honors within the College Scholars program, focusing on Neurosciences, from the University of Tennessee and her medical degree from the University of Tennessee College of Medicine. Neff completed her residency at the University of Virginia Department of Family Medicine in Charlottesville and a fellowship in Faculty Development at the University of Virginia Department of Family Medicine. She completed a fellowship in Integrative Medicine at Arizona Center for Integrative Medicine in 2018.

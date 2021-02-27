@@ -10,12 +10,13 @@ summary: ''
 authors: []
 lastmod: '2021-02-25T16:31:45-06:00'
 featured: no
-image:
+image: 
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
 ---
+
 
 ```r
 summary(Orange)
@@ -30,3 +31,5 @@ summary(Orange)
 ##  4:7   3rd Qu.:1372.0   3rd Qu.:161.5  
 ##        Max.   :1582.0   Max.   :214.0
 ```
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
