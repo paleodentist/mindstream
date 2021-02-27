@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: Stanford University
   url: ""
-role: Professor of Artificial Intelligence
+role: Behavioral Healthcare Provider
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,7 +36,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Amy Price Neff
 user_groups:
 - Researchers
 ---
