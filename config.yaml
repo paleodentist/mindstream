@@ -66,4 +66,4 @@ related:
 module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
-    - path: github.com/wowchemy/starter-research-group
+    - path: https://github.com/wowchemy/starter-research-group
